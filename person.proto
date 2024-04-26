@@ -1,5 +1,8 @@
-package example;
 syntax = "proto3";
+package example;
+
+// golang package
+option go_package = "/golang/pb";
 
 message Person {
     string name = 1;
