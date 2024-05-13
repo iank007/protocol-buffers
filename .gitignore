@@ -1,2 +1,6 @@
+# nodejs
 nodejs/node_modules/
 nodejs/package-lock.json
+
+# rust
+rust/main
